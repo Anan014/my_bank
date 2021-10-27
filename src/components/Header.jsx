@@ -17,11 +17,11 @@ const Header = () => {
                 <Link className="item" href="/transfers">
                     Transfers
                 </Link>
-                <div className="right menu">
+                {/* <div className="right menu">
                     <a className="ui item" href="www.google.com">
                         Logout
                     </a>
-                </div>
+                </div> */}
             </div>
             <div className="ui segment">
                 <p style={{ textAlign: 'center' }}>Welcome to Amer's Bank</p>
